@@ -1,0 +1,16 @@
+.titulo { color: #0d0f0efb; }
+
+div {
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+form {
+    background: rgba(158, 151, 255, 0.2);
+    padding: 2.5rem 2.5rem;
+    border-radius: 2rem;
+    width: 580px;
+    margin: auto;
+
+}
